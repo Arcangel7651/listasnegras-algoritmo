@@ -4,6 +4,13 @@ Aplicación web en Django que compara nombres de clientes contra una lista de pe
 señaladas en oficios de la CNBV, usando coincidencia difusa (fuzzy matching) para detectar
 alertas aun cuando los nombres tengan errores de captura, abreviaciones o distinto orden.
 
+## Sobre el proyecto
+
+Proyecto académico desarrollado en equipo de 6 personas. Mi participación fue como parte del
+equipo de desarrollo. La aplicación permite comparar nombres de clientes contra una lista de
+personas señaladas en oficios de la CNBV, usando coincidencia difusa para detectar alertas aun
+con errores de captura, abreviaciones o distinto orden en los nombres.
+
 ## Stack / Tecnologías
 
 - **Lenguaje:** Python
@@ -86,3 +93,10 @@ docs/                       # Documentación (SRS, SDD)
 ```
 
 Las pruebas se ejecutan con `python manage.py test` desde la carpeta `search_name/`.
+
+## Documentación
+
+La carpeta [docs/](docs/) contiene la documentación técnica del proyecto elaborada por el equipo:
+
+- **Especificación de Requisitos de Software (SRS):** [Software Requirements Specification (SRS).docx](docs/Software%20Requirements%20Specification%20(SRS).docx)
+- **Documento de Diseño de Software (SDD):** [Software Design Document (SDD).docx](docs/Software%20Design%20Document%20(SDD).docx)
