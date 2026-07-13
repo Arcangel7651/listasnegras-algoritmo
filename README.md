@@ -6,10 +6,11 @@ alertas aun cuando los nombres tengan errores de captura, abreviaciones o distin
 
 ## Sobre el proyecto
 
-Proyecto académico desarrollado en equipo de 6 personas. Mi participación fue como parte del
-equipo de desarrollo. La aplicación permite comparar nombres de clientes contra una lista de
-personas señaladas en oficios de la CNBV, usando coincidencia difusa para detectar alertas aun
-con errores de captura, abreviaciones o distinto orden en los nombres.
+Proyecto académico desarrollado en equipo de 6 personas. Como parte del equipo, colaboré en la
+elaboración del Documento de Diseño de Software (SDD) y, sobre todo, en el apartado visual de la
+aplicación (interfaz de usuario). La aplicación permite comparar nombres de clientes contra una
+lista de personas señaladas en oficios de la CNBV, usando coincidencia difusa para detectar
+alertas aun con errores de captura, abreviaciones o distinto orden en los nombres.
 
 ## Stack / Tecnologías
 
